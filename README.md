@@ -164,7 +164,7 @@ The configured baud rate is 115200 bits per second.
 ## EEG Signal Visualization and Artifact Observations
 
 The following figure shows a five-second segment of the acquired signal and its filtered frequency spectrum.
-![EEG waveform and filtered spectrum](images/eegWaveform.png)
+![EEG waveform and filtered spectrum](eegWaveform.png)
 
 Several large, sharp deflections are visible.
 Possible contributors include:
@@ -186,4 +186,4 @@ Elevated power in the beta range is because of muscle activity around the eye re
 
 ## Image of our first hardware prototype
 
-![Prototype hardware of portable eeg](images/portableEEG.png)
+![Prototype hardware of portable eeg](portableEEG.png)
